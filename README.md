@@ -1,12 +1,12 @@
-# FizzBuzz Grid Generator
+# FizzBuzz Generator
 
 ## Présentation vidéo
 
-[Insérez ici le lien vers la vidéo explicative]
+[![Vidéo de présentation](https://img.youtube.com/vi/il9x4jECrhE/0.jpg)](https://www.youtube.com/watch?v=il9x4jECrhE)
 
 ## Description du projet
 
-FizzBuzz Grid Generator est un projet visant à explorer la complexité émergente d'un système basé sur une itération avancée du principe du **FizzBuzz**. Le FizzBuzz classique est souvent utilisé comme test de base en programmation : il consiste à afficher "Fizz" pour les multiples de 3, "Buzz" pour les multiples de 5, et "FizzBuzz" pour les multiples de 3 et 5. Ici, ce concept est étendu à une grille dynamique qui évolue au fil du temps en fonction des règles suivantes :
+FizzBuzz Generator est un projet visant à explorer la complexité émergente d'un système basé sur une itération avancée du principe du **FizzBuzz**. Le FizzBuzz classique est souvent utilisé comme test de base en programmation : il consiste à afficher "Fizz" pour les multiples de 3, "Buzz" pour les multiples de 5, et "FizzBuzz" pour les multiples de 3 et 5. Ici, ce concept est étendu à une grille dynamique qui évolue au fil du temps en fonction des règles suivantes :
 
 - Chaque cellule de la grille est initialisée à `0`.
 - À chaque itération, une cellule aléatoire contenant `0` est remplacée par `1`.
